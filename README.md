@@ -3,10 +3,10 @@ A chrome extension to identify gender and age of any profile on social media pla
 
 ## User should have the following Python libraries installed to run the project:
 
--NumPy
--Pandas
--Sci-Kit Learn
--Matplotlib
+- NumPy
+- Pandas
+- Sci-Kit Learn
+- Matplotlib
 
 ## How to use
 
