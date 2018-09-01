@@ -1,0 +1,16 @@
+{
+  "name": "Con?",
+  "version": "1.0",
+  "description": "extension",
+  "content_scripts":[
+     {
+        "matches": ["https://www.facebook.com/*", "https://wwww.twitter.com/*"],
+        "js": ["jquery.js","axios.js","script.js"]
+     }
+ ],
+ "permissions": ["http://localhost:5000/"],
+ "browser_action": {
+     "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
