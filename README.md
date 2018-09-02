@@ -12,7 +12,7 @@ The trained models are stored in the root directory as .pkl (pickle) files after
 - Matplotlib
 - IO
 
-## For a lucid understanding of the algorithm used behind the project it is advised to explore libraries such as gensim and sklearn natural language toolkit since they are also used in the project.
+### For a lucid understanding of the algorithm used behind the project it is advised to explore libraries such as gensim and sklearn natural language toolkit since they are also used in the project.
 
 
 
