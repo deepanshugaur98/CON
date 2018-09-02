@@ -5,11 +5,13 @@ A chrome extension to identify gender and age of any profile on social media pla
 The trained models are stored in the root directory as .pkl (pickle) files after being trained. All the code for the actual extension can be found under the \extension directory.
 
 ## It's recommended that the user have the following Python libraries installed to inspect the pickle files:
-
+- NLTK
 - NumPy
 - Pandas
 - Sci-Kit Learn
 - Matplotlib
+
+
 
 ## How to use
 
