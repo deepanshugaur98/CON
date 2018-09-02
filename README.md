@@ -10,6 +10,9 @@ The trained models are stored in the root directory as .pkl (pickle) files after
 - Pandas
 - Sci-Kit Learn
 - Matplotlib
+- IO
+- tensorflow
+
 
 
 
