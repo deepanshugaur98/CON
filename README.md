@@ -11,7 +11,8 @@ The trained models are stored in the root directory as .pkl (pickle) files after
 - Sci-Kit Learn
 - Matplotlib
 - IO
-- Tensorflow
+
+## For a lucid understanding of the algorithm used behind the project it is advised to explore libraries such as gensim and sklearn natural language toolkit since they are also used in the project.
 
 
 
